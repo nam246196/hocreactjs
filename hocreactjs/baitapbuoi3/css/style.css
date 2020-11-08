@@ -7,14 +7,6 @@
 ul li {
 	list-style-type: none;
 }
-.row::before {
-    content: " ";
-    display: table;
-}
-.row::after {
-    content: " ";
-    display: table;
-}
 body {
 	margin: auto;
 	padding: 0px;
